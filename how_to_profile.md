@@ -23,6 +23,10 @@ installed for it.
    analyzed.
 9. Select the areas of the diagnostics session when your benchmark is running to analyze.
 
+## Linux / MacOS
+
+TODO: cargo-flamegraph + cgdiff
+
 ## Other platforms
 
 Know how to profile these benchmarks on other platforms? Open a pull request!
